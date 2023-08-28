@@ -1,3 +1,6 @@
 [submodule "shared"]
 	path = proto
 	url = https://github.com/ygaros/shared.git
+[submodule "dir1/dir2/dir3/shared"]
+	path = dir1/dir2/dir3/proto
+	url = https://github.com/ygaros/shared.git
